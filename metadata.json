@@ -1,0 +1,6 @@
+{
+  "name": "Оюутны Эрдмийн Сан | StudentHub",
+  "description": "Монголын их, дээд сургуулийн оюутнуудад зориулсан хичээлийн нэмэлт мэдээлэл, хэрэгтэй веб, унших материал, эрдэм шинжилгээний эх сурвалжийн нэгдсэн цахим платформ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
